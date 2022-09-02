@@ -1,4 +1,4 @@
-# BlackOut
+# BlackOut (2020)
 
 This game was developed by MSYNC.
 
